@@ -19,3 +19,4 @@ squeeze out some additional functionality.
 
 CAUTION: This script has the ability to mess up your IDB file in a ways that 
 you will not appreciate. Back up your IDB!
+this is a grate project.
